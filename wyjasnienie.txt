@@ -1,0 +1,1 @@
+Brakuje pliku roznica, znajduje sie on na branchu dorsz a nie na master.
